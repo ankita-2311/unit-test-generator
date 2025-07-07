@@ -1,0 +1,17 @@
+task: "Refine C++ Unit Tests"
+objective: >
+  Improve the unit tests for the C++ add(a, b) function to ensure high quality, proper formatting, and avoid redundancy.
+instructions:
+  - Ensure all test cases follow GTest best practices.
+  - Remove any duplicate or redundant test cases.
+  - Improve test coverage if any edge cases are missing.
+  - Ensure no undefined behavior (e.g., overflow).
+  - Format code cleanly and consistently.
+  - Suggest missing includes or misuse if any.
+context:
+  - The function being tested is: int add(int a, int b);
+  - Do not test overflow behavior (like INT_MAX + 1).
+  - Use GoogleTest framework for assertions.
+input_files:
+  - tests/test_main.cpp
+output_format: "C++ file content only"

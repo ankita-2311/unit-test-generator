@@ -1,0 +1,14 @@
+# ninja log v7
+49	309	7735807959323588	CMakeFiles/runTests.dir/cpp_project/add.cpp.obj	cbdff778be80d48c
+31	980	7735807959143446	CMakeFiles/main_app.dir/cpp_project/main.cpp.obj	d0c8fdcc8355c335
+983	2137	7735807968684734	main_app.exe	2b8d948514c53cc2
+23	2613	7735807959066233	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	d34ef508bbdb25e3
+43	2762	7735807959258911	CMakeFiles/runTests.dir/tests/test_main.cpp.obj	9a2435c8c59058d3
+57	2976	7735807959404121	googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	ebd775fd347fcaab
+17	4576	7735807959007901	googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	941e1eef8e19846e
+8	10507	7735807958905846	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	cee09a13e8f4ce1e
+10510	10786	7735808063934994	lib/libgtest.a	aed67bcd3599dee2
+10800	10921	7735808066779467	lib/libgtest_main.a	1ae0b4d2d4c13e20
+10786	10935	7735808066680818	lib/libgmock.a	2f5303b45dbbe045
+10935	11040	7735808068131726	lib/libgmock_main.a	781478b2fe9ae98a
+10921	11244	7735808068028764	runTests.exe	545f2d21a313059f

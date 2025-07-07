@@ -1,0 +1,9 @@
+        -:    0:Source:C:/Users/KIIT/Downloads/unit-test-generator/cpp_project/add.cpp
+        -:    0:Graph:CMakeFiles/runTests.dir/cpp_project/add.cpp.gcno
+        -:    0:Data:CMakeFiles/runTests.dir/cpp_project/add.cpp.gcda
+        -:    0:Runs:1
+        -:    1:#include "add.h"
+        -:    2:
+       11:    3:int add(int a, int b) {
+       11:    4:    return a + b;
+        -:    5:}

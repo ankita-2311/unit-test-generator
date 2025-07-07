@@ -1,0 +1,6 @@
+task: "Fix compilation errors in C++ unit tests"
+context: "C++ code and build logs"
+requirements:
+  - Identify errors from logs
+  - Fix C++ test code
+  - Do not remove valid tests

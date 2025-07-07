@@ -1,0 +1,8 @@
+task: "Generate unit tests for a C++ file"
+language: "C++"
+framework: "Google Test"
+requirements:
+  - Cover all functions with at least 2 test cases
+  - Use TEST blocks
+  - Output should be a single .cpp test file
+  - Include relevant headers

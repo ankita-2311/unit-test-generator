@@ -1,0 +1,10 @@
+function:
+  name: add
+  signature: "int add(int a, int b)"
+  description: "Adds two integers and returns the result."
+  constraints:
+    - "Inputs can be negative, zero or positive"
+    - "Function must be deterministic"
+tests:
+  required_tests: 3
+  edge_cases: true
